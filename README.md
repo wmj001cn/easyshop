@@ -1,5 +1,6 @@
 # easyshop
-multi-tenant online store platform
+multi-tenant online store platform meant to show how to build a e-commer plaform using robus technology and scalable approach
+using docker+k8s, as well as the agile development methodology.
 
 前端:Vue+element 缓存:redis 搜索:es search 消息中间件:kafka
 后端:Java 数据库:mysql

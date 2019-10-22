@@ -9,6 +9,7 @@ using docker+k8s, as well as the agile development methodology.
   会员
   活动
   商品
+  搜索
   订单
   库存
   商户
